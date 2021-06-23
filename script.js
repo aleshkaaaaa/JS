@@ -1,17 +1,21 @@
 // 1 ЗАДАНИЕ 
 
+
 let Tc = 28;
 let Tf = ( 9 / 5 ) * Tc + 32 ;
 alert ("Задание 1");
 alert("Ответ: " + Tf);
 
+
 // 2 ЗАДАНИЕ 
+
 
 let admin;
 let name = "Василий";
 admin = name;
 alert ("Задание 2");
 alert ("Ответ: " + admin);
+
 
 // 3 ЗАДАНИЕ 
 
